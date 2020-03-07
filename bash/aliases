@@ -1,1 +1,2 @@
 alias copy='xclip -sel clipboard'
+alias whatsmyip='curl -s https://am.i.mullvad.net/json | jq'
