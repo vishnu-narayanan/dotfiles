@@ -1,3 +1,3 @@
 # doftfiles
 
-Home of all the dotfiles
+home of all the dotfiles.
